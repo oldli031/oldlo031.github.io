@@ -27,7 +27,7 @@ h2{
   padding-left: 10px; text-align: left;
 }
 img{
-  width: 320px; border-radius: 8px;
+  width: 320px; border-radius: 8px; vertical-align:middle;
 }
 h4{
   text-indent: 2em; color: white;
@@ -43,7 +43,4 @@ address{
 #content{
    background-color: #E3F2FD; height: 900px;
    width: 1150px; float: left;
-}
-div{
-    vertical-align: middle;
 }
