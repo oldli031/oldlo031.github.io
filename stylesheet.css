@@ -28,7 +28,7 @@ h2{
 }
 img{
   width: 320px; border-radius: 8px;
-  align: center;
+  vertical-align: middle;
 }
 h4{
   text-indent: 2em; color: white;
