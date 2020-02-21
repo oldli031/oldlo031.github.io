@@ -13,7 +13,7 @@ p {
 #menu{
   background-color: #90CAF9;
   height: 1200px; width: 350px;
-  float: left;
+  float: left;text-align: center;
 }
 #content{
    background-color: #E3F2FD; height: 1200px;
@@ -31,7 +31,7 @@ h2{
   padding-left: 10px; text-align: left;
 }
 img{
-  width: 320px; border-radius: 10px;vertical-align: text-top;
+  width: 320px; border-radius: 10px;align: text-top;
 }
 #ps{
   color: white;font-weight:bold;
