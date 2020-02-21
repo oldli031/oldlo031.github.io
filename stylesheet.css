@@ -33,10 +33,10 @@ h2{
 img{
   width: 320px; border-radius: 10px; vertical-align:text-top;
 }
-b{
-  color: white;
+#ps{
+  color: white;font-weight:bold;
   padding-left: 10px; padding-right: 10px;
-  line-height: 200%;  text-indent: 2em;
+  line-height: 200%;  text-indent: 10px;
 }
 address{
   text-align: right; color: #42A5F5;
