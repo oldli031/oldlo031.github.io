@@ -12,7 +12,7 @@ p {
 }
 #menu{
   background-color: #90CAF9;
-  height: 800px; width: 350px;
+  height: 1200px; width: 350px;
   float: left;
 }
 #content{
@@ -33,9 +33,10 @@ h2{
 img{
   width: 320px; border-radius: 10px; vertical-align:text-top;
 }
-h4{
-  text-indent: 2em; color: white;
+b{
+  color: white;
   padding-left: 10px; padding-right: 10px;
+  line-height: 200%;  text-indent: 2em;
 }
 address{
   text-align: right; color: #42A5F5;
