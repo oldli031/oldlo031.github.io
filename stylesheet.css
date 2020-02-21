@@ -2,7 +2,7 @@ p {
   text-align: justify;
   text-indent: 2em; color: #42A5F5;
   padding-left: 10px; padding-right: 10px;
-  padding-bottom: 10px;line-height: 20px;
+  padding-bottom: 10px;line-height: 200%;
 }
 #container{
   width: 1500px;
@@ -12,8 +12,12 @@ p {
 }
 #menu{
   background-color: #90CAF9;
-  height: 900px; width: 350px;
+  height: 800px; width: 350px;
   float: left;
+}
+#content{
+   background-color: #E3F2FD; height: 1200px;
+   width: 1150px; float: left;
 }
 h1{
   margin-bottom: 0;
@@ -27,7 +31,7 @@ h2{
   padding-left: 10px; text-align: left;
 }
 img{
-  width: 320px; border-radius: 8px; vertical-align:middle;
+  width: 320px; border-radius: 10px; vertical-align:text-top;
 }
 h4{
   text-indent: 2em; color: white;
@@ -35,12 +39,4 @@ h4{
 }
 address{
   text-align: right; color: #42A5F5;
-}
-#footer{
-  background-color: #42A5F5; clear: both;
-  text-align: center; color: white;
-}
-#content{
-   background-color: #E3F2FD; height: 900px;
-   width: 1150px; float: left;
 }
