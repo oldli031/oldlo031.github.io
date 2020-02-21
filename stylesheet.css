@@ -26,11 +26,9 @@ h2{
 .h2a{
   padding-left: 10px; text-align: left;
 }
-#idimg{
-  text-align: center;
-}
 img{
   width: 320px; border-radius: 8px;
+  text-align: center;
 }
 h4{
   text-indent: 2em; color: white;
