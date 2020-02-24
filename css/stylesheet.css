@@ -1,4 +1,4 @@
-html, body, p, h1, div, footer, header{
+html, body, p, h1, div, footer, header,a{
   margin: 0;/*外边距*/
   padding: 0;/*内边距*/
   font-size: 100%;/**/
