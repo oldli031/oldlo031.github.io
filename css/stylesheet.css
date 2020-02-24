@@ -26,6 +26,25 @@ p{
   margin: 0 0 1em 0;
   text-indent: 2em;/*首行缩进*/
 }
+.button{
+  text-decoration: none;
+  text-align: center;
+  border: none;
+  display: block;
+  padding: 15px 32px;
+  background-color: #64B5F6;
+  color: white;
+  border-radius: 0.25em;
+  margin: 2em;
+  font-size: 1.25em;
+  font-weight: 400;
+  transition-duration: 0.4s;
+}
+a.button:hover{
+  background-color: #2196F3;
+  color:white;
+  box-shadow: 0 5px 10px 0 #9E9E9E;
+}
 
 #header{
   padding: 5em 5em 1em 5em;
